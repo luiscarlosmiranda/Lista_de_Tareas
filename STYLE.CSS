@@ -1,0 +1,52 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-transform: capitalize;
+}
+.uno:hover{background: lightgoldenrodyellow;}
+.dos:hover{background: lightgoldenrodyellow;}
+.tres:hover{background: lightgoldenrodyellow;}
+.cuatro:hover{background: lightgoldenrodyellow;}
+.cinco:hover{background: lightgoldenrodyellow;}
+
+.uno:active{background: lightcyan;}
+.dos:active{background: lightcyan;}
+.tres:active{background: lightcyan;}
+.cuatro:active{background: lightcyan;}
+.cinco:active{background: lightcyan;}
+
+
+h1{
+    font-size: 24px;
+    font-weight: bold;
+    text-transform:uppercase;
+    text-align: center;
+}
+
+.uno{ 
+    font-size: 18PX;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+    
+}
+.dos{
+    font-size: 18PX;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+.tres{
+    font-size: 18PX;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+    text-decoration: line-through;
+    color: gray;
+}
+.cuatro{
+    font-size: 18PX;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+.cinco{
+    font-size: 18PX;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;}
